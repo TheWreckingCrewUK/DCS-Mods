@@ -1,0 +1,9 @@
+model = {
+	lods = {		
+		{"VSN_Eurofighter.edm",200.000000};
+		{"VSN_Eurofighter_lod01.edm",1000.000000};
+		{"VSN_Eurofighter_lod02.edm",3000.000000};
+		{"VSN_Eurofighter_lod03.edm",50000.000000};	
+	};
+	collision_shell = "VSN_Eurofighter-collision.edm";
+}

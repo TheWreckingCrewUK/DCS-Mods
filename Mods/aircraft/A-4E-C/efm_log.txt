@@ -1,0 +1,470 @@
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777472.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Connected Radio to Electrical System. Elec: 0000026793BCE500, Wire: 0000027E2A3D7B80, Radio: 0000026793BCF010.
+Set communicator as primary.
+Radio setup complete.
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777472.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Connected Radio to Electrical System. Elec: 0000026793BCE500, Wire: 0000027C7F422BF0, Radio: 0000026793BCF010.
+Set communicator as primary.
+Radio setup complete.
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777472.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Connected Radio to Electrical System. Elec: 0000026793BC71B0, Wire: 0000027E140D8E10, Radio: 0000026793BC7CC0.
+Set communicator as primary.
+Radio setup complete.
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777472.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Connected Radio to Electrical System. Elec: 000002429282C500, Wire: 00000245B5F48060, Radio: 000002429282D010.
+Set communicator as primary.
+Radio setup complete.
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777472.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777473.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Connected Radio to Electrical System. Elec: 00000245AB7DC010, Wire: 000002462FA19A10, Radio: 00000245AB7DCB20.
+Set communicator as primary.
+Radio setup complete.
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777473.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Connected Radio to Electrical System. Elec: 00000245AB7DA900, Wire: 0000024788E177B0, Radio: 00000245AB7DB410.
+Set communicator as primary.
+Radio setup complete.
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777473.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Connected Radio to Electrical System. Elec: 0000015B152BBA50, Wire: 0000015D14898640, Radio: 0000015B152BC560.
+Set communicator as primary.
+Radio setup complete.
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777473.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Connected Radio to Electrical System. Elec: 00000157AF84FA50, Wire: 0000015D1489E910, Radio: 00000157AF850560.
+Set communicator as primary.
+Radio setup complete.
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777473.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Connected Radio to Electrical System. Elec: 0000015282BEA710, Wire: 0000015B0415BC00, Radio: 0000015282BEB220.
+Set communicator as primary.
+Radio setup complete.
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777473.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777473.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777473.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777473.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777473.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777473.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777473.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777472.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Connected Radio to Electrical System. Elec: 0000026BECB541E0, Wire: 0000026C32DF3A90, Radio: 0000026BECB54CF0.
+Set communicator as primary.
+Radio setup complete.
+Releasing Components...
+Closing Log...
+===================
+Begin Log, A-4E-C Version 2.0.0-Beta-5.1
+Initialising Components...
+Base ID found 16777472.
+Generating Mission ID Replacements...
+Root A-4E-C Folder: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\entry.lua 
+Checking entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Verified: entry.lua, Hash: 2c97982fb6bf64681437ad8b744375e436cd41e6
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\A-4E-C.lua 
+Checking A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Verified: A-4E-C.lua, Hash: 27b7435ad93583bb0171721d883df39a0c1b9f31
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Cockpit/Scripts/EFM_Data_Bus.lua 
+Checking Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Verified: Cockpit/Scripts/EFM_Data_Bus.lua, Hash: e81f5e2c2417e7b3927d17c859c7ddce71e1729f
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\Entry/Suspension.lua 
+Checking Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Verified: Entry/Suspension.lua, Hash: beee437b17ca4ed0d936a0ac183c3b5d1f6352a4
+Path: C:\Users\Admin\Saved Games\DCS.openbeta\Mods\aircraft\A-4E-C\EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua 
+Checking EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Verified: EFM_BETA_1_BUILD_DO_NOT_DISTRIBUTE.lua, Hash: c545a1ec924b499a55a08ebea20c6c352fb9f0a6
+Connected Radio to Electrical System. Elec: 000002323982BD20, Wire: 000002360FD7AEC0, Radio: 000002323982C830.
+Set communicator as primary.
+Radio setup complete.
+Releasing Components...
+Closing Log...
